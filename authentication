@@ -1,3 +1,7 @@
 //we do authentication here
+//We do JSON Web Tokens, bcrypt, Mongoose, and CORS here
+//You can use Express or Next.js for authentication
 
+
+// Here is where the auth function is defined
 const auth = auth();
